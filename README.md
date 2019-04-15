@@ -1,5 +1,6 @@
 # dummy data
 
+**Wichtig**: Alle 
 
 ## Datenherkunft
 
@@ -11,6 +12,6 @@ Lizenz: [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingunge
 
 ### Straßen- und Ortsnamen
 
-
+Die Straßennamen habe ich 2019 aus OpenStreetMap gezogen. 
 
 Lizenz: Daten von <a href="http://www.openstreetmap.org/">OpenStreetMap</a> - Veröffentlicht unter <a href="http://opendatacommons.org/licenses/odbl/">ODbL</a>
