@@ -1,6 +1,8 @@
 # dummy data
 
-**Wichtig**: Alle 
+## Lizenz
+
+**Wichtig**: Alle Python-Skripte stehen unter der MIT License. Die Daten stehen nach ihrer jeweiligen Quelle unter jeweils eigener Lizenz. Die Lizenzen sind für die jeweiligen Daten unten angegeben.
 
 ## Rohdaten und ihre Herkunft
 
