@@ -14,7 +14,7 @@ Lizenz: [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingunge
 
 ### Städtenamen
 
-Die Städtenamen habe ich Mitte April aus dem Wikipedia-Artikel [Liste der größten Städte in Nordrhein-Westfalen](https://de.wikipedia.org/wiki/Liste_der_größten_Städte_in_Nordrhein-Westfalen) kopiert.
+Die Städtenamen habe ich Mitte April 2019 aus dem Wikipedia-Artikel [Liste der größten Städte in Nordrhein-Westfalen](https://de.wikipedia.org/wiki/Liste_der_größten_Städte_in_Nordrhein-Westfalen) kopiert.
 
 [Wikipedia-Autoren](https://de.wikipedia.org/w/index.php?title=Liste_der_größten_Städte_in_Nordrhein-Westfalen&action=history): Liste der größten Städte in Nordrhein-Westfalen. Hrsg. von Wikipedia, Die freie Enzyklopädie. Zuletzt am 23. Februar 2019, 13:59 UTC bearbeitet  (abgerufen 15. April 2019).
 
