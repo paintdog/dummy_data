@@ -20,6 +20,6 @@ Lizenz: [Creative Commons Attribution/Share Alike](https://de.wikipedia.org/wiki
 
 ### Straßennamen
 
-Die Straßennamen habe ich 2019 aus OpenStreetMap gezogen. 
+Die Straßennamen habe ich 2019 aus OpenStreetMap.org gezogen. 
 
 Lizenz: Daten von <a href="http://www.openstreetmap.org/">OpenStreetMap</a> - Veröffentlicht unter <a href="http://opendatacommons.org/licenses/odbl/">ODbL</a>
