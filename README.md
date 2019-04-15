@@ -10,7 +10,7 @@ Die jeweils ersten hundert häufigsten [Familiennamen](https://de.wiktionary.org
 
 Lizenz: [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.de)
 
-### Straßen- und Ortsnamen
+### Straßennamen
 
 Die Straßennamen habe ich 2019 aus OpenStreetMap gezogen. 
 
