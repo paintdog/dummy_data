@@ -9,3 +9,8 @@ Die jeweils ersten hundert häufigsten [Familiennamen](https://de.wiktionary.org
 
 Lizenz: [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.de)
 
+### Straßen- und Ortsnamen
+
+
+
+Lizenz: Daten von <a href="http://www.openstreetmap.org/">OpenStreetMap</a> - Veröffentlicht unter <a href="http://opendatacommons.org/licenses/odbl/">ODbL</a>
